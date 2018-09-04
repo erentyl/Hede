@@ -1,0 +1,11 @@
+{
+  "extends": "stylelint-config-standard",
+  "ignoreFiles": [
+    "package-lock.json",
+    "package.json",
+    "README.md",
+    "yarn-error.log",
+    "public/manifest.json",
+    "public/favicon.ico"
+  ]
+}
